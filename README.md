@@ -1,5 +1,5 @@
 # MattoTube
-MattoTube version 1 is the newest update of MattoTube. It can be played on Newgrounds here: https://www.newgrounds.com/portal/view/754879
+MattoTube version 1 is the newest update of MattoTube. It can be played on Newgrounds here: https://www.newgrounds.com/portal/view/754879 (edit: it is no longer available, sorry)
 ## Releases
 ### v1
 - Added 3 languages
